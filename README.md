@@ -7,4 +7,4 @@ Read manual: [JMeter Manual](https://github.com/ladyusa/jMeter/blob/master/jmete
 Sample simple test plan file:
 [TestPlanExample.jmx](https://github.com/ladyusa/jMeter/blob/master/TestPlanExample.jmx)
 
-Set up a web server to do load testing: See [service-shop repo](https://github.com/ladyusa/service-shop)
+Set up a web server to do load testing: See [service-shop repository](https://github.com/ladyusa/service-shop) 
